@@ -1,5 +1,5 @@
 # :wave: Hello there:exclamation: I'm DLesmes :sunglasses:
-Future ML engineer, python :snake: lover, Data Scientist and NLP fan
+Future ML engineer, python :snake: lover, Data Scientist 🧪 and NLP fan 📖
 
 ## My favorites Skills :computer:
 ![Python](https://img.shields.io/badge/Python-TensorFlow-green) ![Python](https://img.shields.io/badge/Python-Pandas-green) ![Python](https://img.shields.io/badge/Python-Numpy-green) ![Python](https://img.shields.io/badge/Python-Seaborn-green) ![Python](https://img.shields.io/badge/Python-Matplotlib-green)
@@ -15,7 +15,7 @@ Future ML engineer, python :snake: lover, Data Scientist and NLP fan
 ## Projects :briefcase:
 - [Football Score Predictor](https://github.com/DLesmes/football_score_predictor) :sparkles:
 - [MisionTic2022](https://github.com/DLesmes/MisionTic2022) :rocket:
-- [Data Triathlon 2021](https://github.com/DLesmes/Data_Triathlon_2021) :medal:
+- [Data Triathlon 2021](https://github.com/DLesmes/Data_Triathlon_2021) 🏅
     
 ## Contact :email:
 - LinkedIn: [DLesmes](https://www.linkedin.com/in/diegolesmes-lnkdn/) :necktie:
