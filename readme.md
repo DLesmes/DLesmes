@@ -1,5 +1,5 @@
 # :wave: Hello there:exclamation: I'm DLesmes :sunglasses:
-Future ML engineer, python :snake: lover, Data Scientist 🧪 and NLP fan 📖
+🇨🇴 Future ML engineer, python :snake: lover, Data Scientist 🧪 and NLP fan 📖
 
 ## My favorites Skills :computer:
 ![Python](https://img.shields.io/badge/Python-TensorFlow-green) ![Python](https://img.shields.io/badge/Python-Pandas-green) ![Python](https://img.shields.io/badge/Python-Numpy-green) ![Python](https://img.shields.io/badge/Python-Seaborn-green) ![Python](https://img.shields.io/badge/Python-Matplotlib-green)
