@@ -23,7 +23,7 @@ Future ML engineer, python lover and NLP fan
     - [Data Triathlon 2021](https://github.com/DLesmes/Data_Triathlon_2021)
     
 ## Contact :email:
-    - LinkedIn: [DLesmes](https://www.linkedin.com/in/diegolesmes-lnkdn/) :necktie:
+- LinkedIn: [DLesmes](https://www.linkedin.com/in/diegolesmes-lnkdn/) :necktie:
 
 ## PRofile
-    - Platzi: [Profile](https://static.platzi.com/static/images/footer/logo.png)
+- Platzi: [Profile](https://static.platzi.com/static/images/footer/logo.png)
