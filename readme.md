@@ -5,15 +5,15 @@
 Future ML engineer, python lover and NLP fan
 
 ## My favorites Skills :computer:
-    - Python :snake:
-        - ![Python](https://img.shields.io/badge/Python-TensorFlow-blue)
-        - ![Python](https://img.shields.io/badge/Python-Pandas-green)
-        - ![Python](https://img.shields.io/badge/Python-Numpy-orange)
-    - R :es:
-    - SQL :ledger:
-    - CLoud :cloud:
-        - GCP 
-    - Git :octocat:
+- Python :snake:
+    - ![Python](https://img.shields.io/badge/Python-TensorFlow-blue)
+    - ![Python](https://img.shields.io/badge/Python-Pandas-green)
+    - ![Python](https://img.shields.io/badge/Python-Numpy-orange)
+- R :es:
+- SQL :ledger:
+- CLoud :cloud:
+    - GCP 
+- Git :octocat:
 
 ## Projects :briefcase:
 - A list of relevant projects you've worked on, with links to the repositories
