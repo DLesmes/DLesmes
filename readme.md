@@ -1,4 +1,4 @@
-# Hello there:exclamation: I'm DLesmes :wave:
+# :wave: Hello there:exclamation: I'm DLesmes :sunglasses:
 Future ML engineer, python :snake: lover, Data Scientist and NLP fan
 
 ## My favorites Skills :computer:
