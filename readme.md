@@ -21,4 +21,4 @@ Future ML engineer, python :snake: lover, Data Scientist nas NLP fan
 - LinkedIn: [DLesmes](https://www.linkedin.com/in/diegolesmes-lnkdn/) :necktie:
 
 ## Profile
-- Platzi: [Profile](https://static.platzi.com/static/images/footer/logo.png
+- Platzi: [Profile](https://static.platzi.com/static/images/footer/logo.png)
