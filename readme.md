@@ -1,29 +1,24 @@
-# Hello there!!
-# I'm DLesmes :wave:
-
-## About Me :mag_right:
-Future ML engineer, python lover and NLP fan
+# Hello there:exclamation: I'm DLesmes :wave:
+Future ML engineer, python :snake: lover, Data Scientist nas NLP fan
 
 ## My favorites Skills :computer:
-- Python :snake:
-    - ![Python](https://img.shields.io/badge/Python-TensorFlow-blue)
-    - ![Python](https://img.shields.io/badge/Python-Pandas-green)
-    - ![Python](https://img.shields.io/badge/Python-Numpy-orange)
-- R :es:
-- SQL :ledger:
-- CLoud :cloud:
-    - GCP 
-- Git :octocat:
+![Python](https://img.shields.io/badge/Python-TensorFlow-green) ![Python](https://img.shields.io/badge/Python-Pandas-green) ![Python](https://img.shields.io/badge/Python-Numpy-green) ![Python](https://img.shields.io/badge/Python-Seaborn-green) ![Python](https://img.shields.io/badge/Python-Matplotlib-green)
+
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-yellow) ![SQL](https://img.shields.io/badge/SQL-Mysql-yellow) ![SQL](https://img.shields.io/badge/SQL-SQLServer-yellow)
+
+![GCP](https://img.shields.io/badge/GCP-GCC-blue) ![GCP](https://img.shields.io/badge/GCP-GCS-blue) ![GCP](https://img.shields.io/badge/GCP-GCC-blue) ![GCP](https://img.shields.io/badge/GCP-CSQL-blue)
+
+![R](https://img.shields.io/badge/R-ggplot-orange) ![R](https://img.shields.io/badge/R-Caret-orange) ![R](https://img.shields.io/badge/R-tidyverse-orange)
+
+![GIT](https://img.shields.io/badge/git-github-black) ![GIT](https://img.shields.io/badge/git-gitlab-black)
 
 ## Projects :briefcase:
-- A list of relevant projects you've worked on, with links to the repositories
-- Example:
-    - [Football Score Predictor](https://github.com/DLesmes/football_score_predictor) :sparkles:
-    - [MisionTic2022](https://github.com/DLesmes/MisionTic2022) :rocket:
-    - [Data Triathlon 2021](https://github.com/DLesmes/Data_Triathlon_2021)
+- [Football Score Predictor](https://github.com/DLesmes/football_score_predictor) :sparkles:
+- [MisionTic2022](https://github.com/DLesmes/MisionTic2022) :rocket:
+- [Data Triathlon 2021](https://github.com/DLesmes/Data_Triathlon_2021) :medal:
     
 ## Contact :email:
 - LinkedIn: [DLesmes](https://www.linkedin.com/in/diegolesmes-lnkdn/) :necktie:
 
-## PRofile
-- Platzi: [Profile](https://static.platzi.com/static/images/footer/logo.png)
+## Profile
+- Platzi: [Profile](https://static.platzi.com/static/images/footer/logo.png
