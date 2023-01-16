@@ -16,6 +16,7 @@
 - [Football Score Predictor](https://github.com/DLesmes/football_score_predictor) :sparkles:
 - [MisionTic2022](https://github.com/DLesmes/MisionTic2022) :rocket:
 - [Data Triathlon 2021](https://github.com/DLesmes/Data_Triathlon_2021) 🏅
+- [http_requests](https://github.com/DLesmes/http_requests)☝🏻
     
 ## Contact :email:
 - LinkedIn: [DLesmes](https://www.linkedin.com/in/diegolesmes-lnkdn/) :necktie:
