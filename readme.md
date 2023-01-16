@@ -19,7 +19,7 @@
 - [http_requests](https://github.com/DLesmes/http_requests)☝🏻
     
 ## Contact :email:
-- LinkedIn: [DLesmes](https://www.linkedin.com/in/diegolesmes-lnkdn/) :necktie:
+- [LinkedIn](https://www.linkedin.com/in/diegolesmes-lnkdn/): [DLesmes](https://1drv.ms/b/s!AoY5DQml1Cs4iFBXxQ-BWADYR3QG?e=9klgy1) :necktie:
 
 ## Profile
 - Platzi: [Profile](https://static.platzi.com/static/images/footer/logo.png)
