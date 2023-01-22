@@ -16,7 +16,7 @@
 
 | **Project** | **Description** |
 |---|--- |
-| [custom_twitter_api](https://github.com/DLesmes/custom_twitter_api) 🖊️ | FastAPI Tweeter custom API 🐦 |
+| [custom_twitter_api](https://github.com/DLesmes/custom_twitter_api) 🖊️ | FastAPI Twitter custom API 🐦 |
 | [Football Score Predictor](https://github.com/DLesmes/football_score_predictor) :sparkles: | Web scraper to predict the next matches results :soccer: |
 | [MisionTic2022](https://github.com/DLesmes/MisionTic2022) :rocket: | Notes, content, and code of MisionTIC2022 Software Develop Course 💻 |
 | [Data Triathlon 2021](https://github.com/DLesmes/Data_Triathlon_2021) 🏅 | Code for Olympics Platzi Data Area 🥇 |
