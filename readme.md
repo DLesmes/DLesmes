@@ -24,4 +24,4 @@
     
 ## Profile 👔
 - [LinkedIn](https://www.linkedin.com/in/diegolesmes-lnkdn/): [DLesmes](https://1drv.ms/b/s!AoY5DQml1Cs4iFBXxQ-BWADYR3QG?e=9klgy1) 👍
-- Platzi: [Profile](https://static.platzi.com/static/images/footer/logo.png) 🚀
+- Platzi: [Profile](https://platzi.com/p/dlesmes/) 🚀
