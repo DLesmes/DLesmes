@@ -22,6 +22,6 @@
 | [Data Triathlon 2021](https://github.com/DLesmes/Data_Triathlon_2021) 🏅 | Code for Olympics Platzi Data Area 🥇 |
 | [http_requests](https://github.com/DLesmes/http_requests)☝🏻 | General code to use API endpoints with pure python 🐍 |
     
-## Profile
-- [LinkedIn](https://www.linkedin.com/in/diegolesmes-lnkdn/): [DLesmes](https://1drv.ms/b/s!AoY5DQml1Cs4iFBXxQ-BWADYR3QG?e=9klgy1) :necktie:
-- Platzi: [Profile](https://static.platzi.com/static/images/footer/logo.png)
+## Profile 👔
+- [LinkedIn](https://www.linkedin.com/in/diegolesmes-lnkdn/): [DLesmes](https://1drv.ms/b/s!AoY5DQml1Cs4iFBXxQ-BWADYR3QG?e=9klgy1) 👍
+- Platzi: [Profile](https://static.platzi.com/static/images/footer/logo.png) 🚀
