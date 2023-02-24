@@ -16,12 +16,13 @@
 
 | **Project** | **Description** |
 |---|--- |
-| [custom_twitter_api](https://github.com/DLesmes/custom_twitter_api) 🖊️ | FastAPI Twitter custom API 🐦 |
-| [FastApi Hello world](https://github.com/DLesmes/fast_api_hw) 🙏 | FastAPI SandBox and Theory ✌️ |
-| [Football Score Predictor](https://github.com/DLesmes/football_score_predictor) :sparkles: | Web scraper to predict the next matches results :soccer: |
-| [MisionTic2022](https://github.com/DLesmes/MisionTic2022) :rocket: | Notes, content, and code of MisionTIC2022 Software Develop Course 💻 |
-| [Data Triathlon 2021](https://github.com/DLesmes/Data_Triathlon_2021) 🏅 | Code for Olympics Platzi Data Area 🥇 |
-| [http_requests](https://github.com/DLesmes/http_requests)☝🏻 | General code to use API endpoints with pure python 🐍 |
+| [🤗 HuggingFace Hello world](https://github.com/DLesmes/hugging_face)| HuggingFace SandBox and Theory ✌️ |
+| [🖊️ custom_twitter_api](https://github.com/DLesmes/custom_twitter_api)| FastAPI Twitter custom API 🐦 |
+| [🙏 FastApi Hello world](https://github.com/DLesmes/fast_api_hw)| FastAPI SandBox and Theory ✌️ |
+| [:sparkles: Football Score Predictor](https://github.com/DLesmes/football_score_predictor)| Web scraper to predict the next matches results :soccer: |
+| [:rocket: MisionTic2022](https://github.com/DLesmes/MisionTic2022)| Notes, content, and code of MisionTIC2022 Software Develop Course 💻 |
+| [🏅 Data Triathlon 2021](https://github.com/DLesmes/Data_Triathlon_2021)| Code for Olympics Platzi Data Area 🥇 |
+| [☝🏻 http_requests](https://github.com/DLesmes/http_requests)| General code to use API endpoints with pure python 🐍 |
     
 ## Profile 👔
 - [LinkedIn](https://www.linkedin.com/in/diegolesmes-lnkdn/): [DLesmes](https://1drv.ms/b/s!AoY5DQml1Cs4iFBXxQ-BWADYR3QG?e=9klgy1) 👍
