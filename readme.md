@@ -17,12 +17,13 @@
 | **Project** | **Description** |
 |---|--- |
 | [🤗 HuggingFace Hello world](https://github.com/DLesmes/hugging_face)| HuggingFace SandBox and Theory ✌️ |
+| [🌅 Image Generation](https://github.com/DLesmes/image_generation)| SOTA Dall-E, Midjourney, stable diffusion 🌁|
 | [🖊️ custom_twitter_api](https://github.com/DLesmes/custom_twitter_api)| FastAPI Twitter custom API 🐦 |
 | [🙏 FastApi Hello world](https://github.com/DLesmes/fast_api_hw)| FastAPI SandBox and Theory ✌️ |
 | [:sparkles: Football Score Predictor](https://github.com/DLesmes/football_score_predictor)| Web scraper to predict the next matches results :soccer: |
 | [:rocket: MisionTic2022](https://github.com/DLesmes/MisionTic2022)| Notes, content, and code of MisionTIC2022 Software Develop Course 💻 |
-| [:rocket:BioHealth Backend](https://github.com/DLesmes/biohealth_backend)| Backend Repo of BioHealth - MisionTIC2022 Software Develop Project 💻 |
-| [:rocket:BioHealth Frontend](https://github.com/DLesmes/biohealth_frontend)| Frontend Repo of BioHealth - MisionTIC2022 Software Develop Project 💻 |
+| [:rocket: BioHealth Backend](https://github.com/DLesmes/biohealth_backend)| Backend Repo of BioHealth - MisionTIC2022 Software Develop Project 💻 |
+| [:rocket: BioHealth Frontend](https://github.com/DLesmes/biohealth_frontend)| Frontend Repo of BioHealth - MisionTIC2022 Software Develop Project 💻 |
 | [🏅 Data Triathlon 2021](https://github.com/DLesmes/Data_Triathlon_2021)| Code for Olympics Platzi Data Area 🥇 |
 | [☝🏻 http_requests](https://github.com/DLesmes/http_requests)| General code to use API endpoints with pure python 🐍 |
     
