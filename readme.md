@@ -1,5 +1,10 @@
-# :wave: Hello there:exclamation: I'm DLesmes :sunglasses:
+# :wave: Hello there I'm DLesmes :sunglasses:
 🇨🇴 Future ML engineer, python :snake: lover, Data Scientist 🧪 and NLP fan 📖
+
+![DLesmes](https://github-readme-stats.vercel.app/api?username=dlesmes&show_icons=true&theme=github_dark_dimmed&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlesmes&layout=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## My favorites Skills :computer:
 ![Python](https://img.shields.io/badge/Python-TensorFlow-green) ![Python](https://img.shields.io/badge/Python-Pandas-purple) ![Python](https://img.shields.io/badge/Python-Numpy-blue) ![Python](https://img.shields.io/badge/Python-Seaborn-green) ![Python](https://img.shields.io/badge/Python-Matplotlib-orange) ![Python](https://img.shields.io/badge/Python-beautifulsoup4-blue)
