@@ -1,5 +1,5 @@
 # :wave: Hello there I'm DLesmes :sunglasses:
-🇨🇴 Future ML engineer, python :snake: lover, Data Scientist 🧪 and NLP fan 📖
+🇨🇴 ML engineer, AI Developer, python :snake: lover, Data Scientist 🧪 AI and NLP 🤓
 
 ![DLesmes](https://github-readme-stats.vercel.app/api?username=dlesmes&show_icons=true&theme=github_dark_dimmed&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlesmes&layout=compact)
 
