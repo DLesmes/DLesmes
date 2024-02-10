@@ -18,6 +18,7 @@
 
 | **Project** | **Description** |
 |---|--- |
+| [🤖 torchbot](https://github.com/DLesmes/torchbot)| Telegram Chatbot with RAG process 🩵 |
 | [🛩 Airflow Sandbox Template](https://github.com/DLesmes/airflow_sandbox_template)| Airflow SandBox template and docs ▶️ |
 | [🤗 HuggingFace Hello world](https://github.com/DLesmes/hugging_face)| HuggingFace SandBox and Theory ✌️ |
 | [🌅 Image Generation](https://github.com/DLesmes/image_generation)| SOTA Dall-E, Midjourney, stable diffusion 🌁|
