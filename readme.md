@@ -33,5 +33,5 @@
 | [☝🏻 http_requests](https://github.com/DLesmes/http_requests)| General code to use API endpoints with pure python 🐍 |
     
 ## Profile 👔
-- [LinkedIn](https://www.linkedin.com/in/diegolesmes-lnkdn/): [DLesmes](https://1drv.ms/b/s!AoY5DQml1Cs4iFBXxQ-BWADYR3QG?e=9klgy1) 👍
+- [LinkedIn](https://www.linkedin.com/in/diegolesmes-lnkdn/): [DLesmes](https://1drv.ms/b/s!AspgOuOCtiKUgWeh5OwZrOFvJrza?e=7PVEez) 👍
 - Platzi: [Profile](https://platzi.com/p/dlesmes/) 🚀
