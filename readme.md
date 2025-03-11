@@ -1,5 +1,7 @@
 # :wave: Hello there I'm DLesmes :sunglasses:
-🇨🇴 ML engineer, AI Developer, python :snake: lover, Data Scientist 🧪 AI and NLP 🤓
+
+🇨🇴 Data Scientist & Industrial Engineer passionate about crafting AI magic 🤖✨ Specializing in ML, NLP, computer vision, and generative AI, I love turning ideas into production-ready solutions with innovation and teamwork! 🎯👥
+
 
 ![DLesmes](https://github-readme-stats.vercel.app/api?username=dlesmes&show_icons=true&theme=github_dark_dimmed&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlesmes&layout=compact)
 
