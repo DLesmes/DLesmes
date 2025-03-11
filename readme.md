@@ -43,6 +43,6 @@ Below is a snapshot of my skills, organized by category for easy reference:
 | [🏅 Data Triathlon 2021](https://github.com/DLesmes/Data_Triathlon_2021)| Code for Olympics Platzi Data Area 🥇 |
 | [☝🏻 http_requests](https://github.com/DLesmes/http_requests)| General code to use API endpoints with pure python 🐍 |
     
-## Profile 👔
-- [LinkedIn](https://www.linkedin.com/in/diegolesmes-lnkdn/): [DLesmes](https://1drv.ms/b/s!AspgOuOCtiKUgWeh5OwZrOFvJrza?e=7PVEez) 👍
-- Platzi: [Profile](https://platzi.com/p/dlesmes/) 🚀
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/diegolesmes-lnkdn/) or review my [Platzi Profile](https://platzi.com/p/dlesmes/) 🚀 [DLesmes](https://1drv.ms/b/s!AspgOuOCtiKUgWeh5OwZrOFvJrza?e=7PVEez) 👍
