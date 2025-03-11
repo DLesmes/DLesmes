@@ -18,6 +18,7 @@
 
 | **Project** | **Description** |
 |---|--- |
+| [💼 Jobbot](https://github.com/DLesmes/jobbot/blob/main/README.md)| Telegram Chatbot with custom hybrid Job offers recommendation system 🛃 |
 | [💎 GPC - Gemma Python Chat](https://github.com/DLesmes/GPC/blob/main/README.md)| Gemma Chatbot For this [Google kaggle competition](https://www.kaggle.com/competitions/data-assistants-with-gemma/overview) ✊ |
 | [🤖 torchbot](https://github.com/DLesmes/torchbot)| Telegram Chatbot with RAG process 🩵 |
 | [🛩 Airflow Sandbox Template](https://github.com/DLesmes/airflow_sandbox_template)| Airflow SandBox template and docs ▶️ |
