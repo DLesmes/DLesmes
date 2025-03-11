@@ -3,8 +3,7 @@
 🇨🇴 Data Scientist & Industrial Engineer passionate about crafting AI magic 🤖✨ Specializing in ML, NLP, computer vision, and generative AI, I love turning ideas into production-ready solutions with innovation and teamwork! 🎯👥
 
 
-![DLesmes](https://github-readme-stats.vercel.app/api?username=dlesmes&show_icons=true&theme=github_dark_dimmed&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlesmes&layout=compact)
-
+![DLesmes](https://github-readme-stats.vercel.app/api?username=dlesmes&show_icons=true&theme=github_dark_dimmed&count_private=true)
 ---
 
 ## 🛠️ Skills
@@ -22,6 +21,8 @@ Below is a snapshot of my skills, organized by category for easy reference:
 | **Soft Skills**         | ![Numerical Analysis](https://img.shields.io/badge/Numerical%20Analysis-brightgreen?style=plastic) ![Teamwork](https://img.shields.io/badge/Teamwork-yellow?style=plastic) ![Leadership](https://img.shields.io/badge/Leadership-orange?style=plastic) ![Decision Making](https://img.shields.io/badge/Decision%20Making-red?style=plastic) ![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-pink?style=plastic) ![Proactive Problem Solving](https://img.shields.io/badge/Proactive%20Problem%20Solving-purple?style=plastic) |
 | **Languages**           | ![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?style=plastic) ![English](https://img.shields.io/badge/English-B2-yellow?style=plastic) |
 
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlesmes&layout=compact)
 ---
 
 ## Projects :briefcase:
