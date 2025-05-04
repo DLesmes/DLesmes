@@ -45,5 +45,16 @@ Below is a snapshot of my skills, organized by category for easy reference:
 | [☝🏻 http_requests](https://github.com/DLesmes/http_requests)| General code to use API endpoints with pure python 🐍 |
     
 ---
+## contact 🗨️
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/diegolesmes-lnkdn/) or review my [Platzi Profile](https://platzi.com/p/dlesmes/) 🚀 [DLesmes](https://1drv.ms/b/s!AspgOuOCtiKUgWeh5OwZrOFvJrza?e=7PVEez) 👍
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/diegolesmes-lnkdn/" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" width="20" style="vertical-align: middle; display: inline-block;" />
+  </a>
+  <a href="https://platzi.com/p/dlesmes/" target="_blank" style="margin: 0 10px;">
+    <img src="https://static.platzi.com/static/images/footer/logo.png" alt="" width="60" style="vertical-align: middle; display: inline-block;" />
+  </a>
+  <a href="https://1drv.ms/b/s!AspgOuOCtiKUgWeh5OwZrOFvJrza?e=7PVEez" target="_blank" style="margin: 0 10px;">
+    <img src="https://www.gstatic.com/images/branding/product/1x/docs_2020q4_48dp.png" alt="" width="20" style="vertical-align: middle; display: inline-block;" />
+  </a>
+</div>
