@@ -29,6 +29,8 @@ Below is a snapshot of my skills, organized by category for easy reference:
 
 | **Project** | **Description** |
 |---|--- |
+| [💫 fastbot](https://github.com/DLesmes/fastbot/blob/main/README.md)| Vibecoded Chatbot endpoint with RAG system to talk with Deepseek R1 paper 🐋 |
+| [☄️ fastCursor](https://github.com/DLesmes/fastCursor/blob/main/README.md)| PoC Vibecoded Chatbot endpoint with RAG system to talk with Deepseek R1 paper 🌍 |
 | [💼 Jobbot](https://github.com/DLesmes/jobbot/blob/main/README.md)| Telegram Chatbot with custom hybrid Job offers recommendation system 🛃 |
 | [💎 GPC - Gemma Python Chat](https://github.com/DLesmes/GPC/blob/main/README.md)| Gemma Chatbot For this [Google kaggle competition](https://www.kaggle.com/competitions/data-assistants-with-gemma/overview) ✊ |
 | [🤖 torchbot](https://github.com/DLesmes/torchbot)| Telegram Chatbot with RAG process 🩵 |
