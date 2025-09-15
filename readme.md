@@ -29,6 +29,7 @@ Below is a snapshot of my skills, organized by category for easy reference:
 
 | **Project** | **Description** |
 |---|--- |
+| [🌐 MCP local server](https://github.com/DLesmes/mcp_server)| Sample code and basic initial instalation and hello world sample of a MCP server 🖥️ |
 | [🚥 Anomaly handling Agents](https://github.com/DLesmes/tt_hk_lai/blob/main/README.md)| AI-driven logistics anomaly handling and ETA optimization 🚙 🛤️ |
 | [💫 fastbot](https://github.com/DLesmes/fastbot/blob/main/README.md)| Vibecoded Chatbot endpoint with RAG system to talk with Deepseek R1 paper 🐋 |
 | [☄️ fastCursor](https://github.com/DLesmes/fastCursor/blob/main/README.md)| PoC Vibecoded Chatbot endpoint with RAG system to talk with Deepseek R1 paper 🌍 |
